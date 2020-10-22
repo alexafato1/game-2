@@ -1,0 +1,22 @@
+.home{
+ 
+}
+
+.home__posts{
+  display: flex;
+  justify-content: space-between;  
+  width: 90%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+
+}
+
+.home__post{
+  max-width: 500px; 
+  
+}
+.home__img{
+    max-width: 500px;
+    max-height: 500px;
+    object-fit: cover;
+  }

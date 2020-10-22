@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(27, 100, 97);
+    
+}
+
+.login__form{
+    display: flex;
+    flex-direction: column;
+    max-width: 280px;
+    margin: 20px auto;
+    background-color: lightblue;
+}
+input{
+    margin: 5px;
+    padding: 10px;
+}
+
+.login__title{
+    text-align: center;
+}
+
+.login__submit{
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+.signup{
+    background-color: skyblue;
+}

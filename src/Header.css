@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    background-color: aliceblue;
+}
+
+.header__nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+a{
+   text-decoration: none;
+}
